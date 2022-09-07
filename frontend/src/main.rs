@@ -1,4 +1,0 @@
-// openupscaler
-
-fn main() {
-}
